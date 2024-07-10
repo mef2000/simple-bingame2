@@ -1,0 +1,14 @@
+{
+	"en": [
+		{"btnstart" : "START"}, {"btnabout" : "ABOUT"}, {"btnexit" : "EXIT"}, {"gatitle" : "BinGAME 2 About Info"},
+		{"aboutext" : "\tBinary Game 2 is an implementation of a similar game from Cisco as an application for Windows, Linux and Android. Unlike the original game, the program does not depend on the presence of a Flash-player, the increase in complexity is planned somewhat differently.\n\tThe player's task is to represent the number written to the left of the chain in binary code. By clicking the mouse, you can change the state of any bit. The number corresponding to the typed binary code is shown to the right of the bitstring. As soon as the correct binary representation is typed in some chain, this chain disappears.\n\tPorting to Linux / Android: Eduard Mangushev."}, 
+		{"count": "COUNT: "}, 	{"level": "LEVEL: "}, {"gotitle": "YOU LOOOOOOSE!"}, {"btnexitz": "RESTART.."}, {"btnads": "Rebirth by Ads!"},
+		{"yourcount": "You got COUNT: "}, {"yourlvl": "You got LEVEL: "}, {"maxcount": "Max COUNT: "}, {"maxlvl": "Max LEVEL: "}, {"adsproblem":  "Ads not loaded. Started new game!"}, {"btnsupport": "SUPPORT ME"}
+	],
+	"ru": [
+		{"btnstart" : "НАЧАТЬ"}, {"btnabout" : "ОБ ИГРЕ"}, {"btnexit" : "ВЫХОД"}, {"gatitle" : "Информация BinGAME 2"},
+		{"aboutext" : "Binary Game 2 - это реализация аналогичной игры от Cisco в виде приложения для Windows, Linux и Android. В отличие от оригинальной игры, программа не зависит от наличия Flash-плеера, увеличение сложности планируется несколько иначе.\nЗадача игрока - представить число, написанное слева от цепочки, в двоичном коде. Щелчком мыши можно изменить состояние любого бита. Генерируется случайное число, которое необходимо представить. Как только правильное двоичное представление набирается в некоторой цепочке, эта цепочка исчезает.\nПеренос в Linux/Android: Эдуард Мангушев "},
+		{"count": "СЧЁТ: "}, 	{"level": "УРОВЕНЬ: "}, {"gotitle": "ТЫ ПРОИГРАААЛ!"}, {"btnexitz": "ПЕРЕЗАПУСК"}, {"btnads": "ВОЗВРАТ(Ads)"},
+		{"yourcount": "Твой СЧЁТ: "}, {"yourlvl": "Твой УРОВЕНЬ: "}, {"maxcount": "Максимальный СЧЁТ: "}, {"maxlvl": "Максимальный УРОВЕНЬ: "}, {"adsproblem":  "Проблема с рекламой. Игра начата с начала!"}, {"btnsupport": "ПОДДЕРЖАТЬ"}
+	]
+}
